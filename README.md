@@ -1,0 +1,1 @@
+Na biblioteca temos 3 classes para cada funcionalidade exigida. A primeira corresponde a calculadora, em seguida a classe que retorna o juros simples e composto e finalmente a que possui funções que retornam perímetro, área e volume de algumas geometrias.
